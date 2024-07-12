@@ -1,3 +1,7 @@
 "Hello Friends"
 
 This is Midhun AK
+
+git add
+git commit
+git push
